@@ -1,0 +1,14 @@
+Thumbs.db
+*.DS_Store
+.idea/
+/shelf/
+/workspace.xml
+.gradle/
+.idea/
+build.gradle
+build/
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+
